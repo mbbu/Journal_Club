@@ -18,7 +18,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 08-04-2021 | *Molecular Data storage using DNA* | Luis et al | Simeon Hebrew | [Paper](https://www.nature.com/articles/s41576-019-0125-3.epdf?sharing_token=d2W2PbBlMvR_zDhcnxYnQdRgN0jAjWel9jnR3ZoTv0PVUBRMJlc9VcYsdFg2SNetpyPZNEaTJF-YYhxMBj3YJ9hsPUHLHfMPvqwixiHFXfgqWmYTMZu_wOQcu8DV_n3M1Q083Vyhy1Z8S7_yylWO51MIS4qv9_13S-4Dyt_bDTFL7PRnU1O_DNDeHEmtdTsiPVLUh63ENd-T_KoTbJ_O0a0oHQvqO7ql8sPrkwbs2jg=&tracking_referrer=www.microsoft.com) | [Presentation_link](https://docs.google.com/presentation/d/1pMBGB_m2M6kyceQW60eQc0l02rblXX2vbzY-OjfK5gA/edit?usp=sharing)
 22-04-2021 | *Privacy challenges and research opportunities for genomic data sharing* | Bonomi et al | Nabwire Asatsa | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7761157/) | [Presentation_link](https://docs.google.com/presentation/d/1qY60fNFnb2MWVMfmV6o7XoAdViXTzRn8FwaOxbvEY5g/edit#slide=id.p) 
 6-05-2021 | *COVID-19 vaccines: where we stand and challenges ahead.* | Forni et al | Kauthar Omar | [Paper](https://www.nature.com/articles/s41418-020-00720-9) | [Presentation link](https://docs.google.com/presentation/d/1vokp3xYIYHj1P6ToBcwoGCqVh8WYMY1WbDbvFIHQAv8/edit?usp=sharing)
-
+20-05-2021 | *TensorFlow: Biology’s Gateway to Deep Learning?* | Ladislav et al | Wilson Mudaki | [Paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)00010-7) | [Presentation link](https://github.com/totodingi/Journal_Club/blob/main/presentations/present.pdf)
 
 
 ---

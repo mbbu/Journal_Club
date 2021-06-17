@@ -19,6 +19,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 22-04-2021 | *Privacy challenges and research opportunities for genomic data sharing* | Bonomi et al | Nabwire Asatsa | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7761157/) | [Presentation_link](https://docs.google.com/presentation/d/1qY60fNFnb2MWVMfmV6o7XoAdViXTzRn8FwaOxbvEY5g/edit#slide=id.p) 
 6-05-2021 | *COVID-19 vaccines: where we stand and challenges ahead.* | Forni et al | Kauthar Omar | [Paper](https://www.nature.com/articles/s41418-020-00720-9) | [Presentation link](https://docs.google.com/presentation/d/1vokp3xYIYHj1P6ToBcwoGCqVh8WYMY1WbDbvFIHQAv8/edit?usp=sharing)
 20-05-2021 | *TensorFlow: Biology’s Gateway to Deep Learning?* | Ladislav et al | Wilson Mudaki | [Paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)00010-7) | [Presentation link](https://github.com/totodingi/Journal_Club/blob/main/presentations/present.pdf)
+03-06-2021 | *Unmapped exome reads implicate a role for Anelloviridae in childhood HIV-1 long-term non-progression* | S. Mwesigwa et al. | Kariuki Eric | [Paper](https://www.nature.com/articles/s41525-021-00185-w) | [Presentation_link](https://docs.google.com/presentation/d/1JIi0fToXyxqmYgqCx7a_JQL7whJnPIasbORyzB4UdvY/edit?usp=sharing)
 ---
 
 When you are the presenter, do the following:

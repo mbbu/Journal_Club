@@ -22,6 +22,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 03-06-2021 | *Unmapped exome reads implicate a role for Anelloviridae in childhood HIV-1 long-term non-progression* | S. Mwesigwa et al. | Kariuki Eric | [Paper](https://www.nature.com/articles/s41525-021-00185-w) | [Presentation_link](https://docs.google.com/presentation/d/1JIi0fToXyxqmYgqCx7a_JQL7whJnPIasbORyzB4UdvY/edit?usp=sharing)
 17-06-2021 | *Global population genetic structure anddemographic trajectories of the blacksoldier fly,Hermetia illucensn* | Cengiz Kaya et al. | Caleb Kibet | [Paper](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01029-w) | [Presentation_link](https://docs.google.com/presentation/d/1q1CBvhXBsy4swtMR288UCB80nlITpyDAHWaUL5hh22k/edit?usp=sharing)
 01-07-2021 | *Temporal human associations between human upper respiratory and gut bacterial microbiomes during the course of COVID-19 in adults* | Rong Xu et al. | Jacqueline Wahura | [Paper](https://www.nature.com/articles/s42003-021-01796-w) | [Presentation_link](https://docs.google.com/presentation/d/1mg8cpEPEkGLp5gdqU1sj4cU4dgQ3KrP7/edit#slide=id.p18)
+15-07-2021 | *Emergence and spread of a SARS-CoV-2 lineage A variant (A.23.1) with altered spike protein in Uganda* | Bugembe et al. | Parcelli Jepchirchir | [Paper](https://www.nature.com/articles/s41564-021-00933-9) | [Presentation_link](https://drive.google.com/file/d/1XpBFt_MlYM_sj9nLe6DuVrEeCDwHhqkh/view?usp=sharing)
 ---
 
 

@@ -24,7 +24,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 01-07-2021 | *Temporal human associations between human upper respiratory and gut bacterial microbiomes during the course of COVID-19 in adults* | Rong Xu et al. | Jacqueline Wahura | [Paper](https://www.nature.com/articles/s42003-021-01796-w) | [Presentation_link](https://docs.google.com/presentation/d/1mg8cpEPEkGLp5gdqU1sj4cU4dgQ3KrP7/edit#slide=id.p18)
 15-07-2021 | *Emergence and spread of a SARS-CoV-2 lineage A variant (A.23.1) with altered spike protein in Uganda* | Bugembe et al. | Parcelli Jepchirchir | [Paper](https://www.nature.com/articles/s41564-021-00933-9) | [Presentation_link](https://drive.google.com/file/d/1XpBFt_MlYM_sj9nLe6DuVrEeCDwHhqkh/view?usp=sharing)
 29-07-2021 | *Microbiome diversity in Diaphorina citri populations from Kenya and Tanzania shows links to China* | Inusa et al. | Namikelwa Dorcus | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319306/) | [Presentation link](https://drive.google.com/file/d/1SSsEu0RS6bPJJLJIS-P5N86mThfZ-cdD/view?usp=sharing)
-
+12-08-2021 | *Impact of commonly used drugs on the composition and metabolic function of the gut microbiota* | Arnau vich vila et al. | Bole Kadiro | [Paper](https://www.nature.com/articles/s41467-019-14177-z) | [Presentation_link](https://docs.google.com/presentation/d/1p8MmTAbI2eA8o6Vi5RKPkx5Lk0L4iFer/edit?usp=sharing&ouid=105044941427727381058&rtpof=true&sd=true)
 ---
 
 

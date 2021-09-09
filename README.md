@@ -25,6 +25,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 15-07-2021 | *Emergence and spread of a SARS-CoV-2 lineage A variant (A.23.1) with altered spike protein in Uganda* | Bugembe et al. | Parcelli Jepchirchir | [Paper](https://www.nature.com/articles/s41564-021-00933-9) | [Presentation_link](https://drive.google.com/file/d/1XpBFt_MlYM_sj9nLe6DuVrEeCDwHhqkh/view?usp=sharing)
 29-07-2021 | *Microbiome diversity in Diaphorina citri populations from Kenya and Tanzania shows links to China* | Inusa et al. | Namikelwa Dorcus | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319306/) | [Presentation link](https://drive.google.com/file/d/1SSsEu0RS6bPJJLJIS-P5N86mThfZ-cdD/view?usp=sharing)
 12-08-2021 | *Impact of commonly used drugs on the composition and metabolic function of the gut microbiota* | Arnau vich vila et al. | Bole Kadiro | [Paper](https://www.nature.com/articles/s41467-019-14177-z) | [Presentation_link](https://docs.google.com/presentation/d/1p8MmTAbI2eA8o6Vi5RKPkx5Lk0L4iFer/edit?usp=sharing&ouid=105044941427727381058&rtpof=true&sd=true)
+09-09-2021 | *Transcriptional Analysis of Human Skin Lesions Identifies Tryptophan-2,3-Deoxygenase as a Restriction Factor for Cutaneous Leishmania* | Vasco Rodrigues et al., | John Njogu | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788307/) | [presentation link](https://us02web.zoom.us/j/88419988197?pwd=NUs2aXBrZHhLdys3bDF4RHZ1VjFtQT09)
 ---
 
 

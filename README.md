@@ -26,6 +26,8 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 29-07-2021 | *Microbiome diversity in Diaphorina citri populations from Kenya and Tanzania shows links to China* | Inusa et al. | Namikelwa Dorcus | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319306/) | [Presentation link](https://drive.google.com/file/d/1SSsEu0RS6bPJJLJIS-P5N86mThfZ-cdD/view?usp=sharing)
 12-08-2021 | *Impact of commonly used drugs on the composition and metabolic function of the gut microbiota* | Arnau vich vila et al. | Bole Kadiro | [Paper](https://www.nature.com/articles/s41467-019-14177-z) | [Presentation_link](https://docs.google.com/presentation/d/1p8MmTAbI2eA8o6Vi5RKPkx5Lk0L4iFer/edit?usp=sharing&ouid=105044941427727381058&rtpof=true&sd=true)
 26-08-2021 | *Tracking the introduction and spread of SARS-CoV-2 in coastal Kenya* | George Githinji et al. | Brenda Kamau | [Paper](https://www.nature.com/articles/s41467-021-25137-x) | [Presentation_link](https://docs.google.com/presentation/d/1cQ4qBEJrE9zl2STNkbRBmIUCKJtW6xV5/edit?usp=sharing&ouid=115597905508400499422&rtpof=true&sd=true)
+09-09-2021 | *Transcriptional Analysis of Human Skin Lesions Identifies Tryptophan-2,3-Deoxygenase as a Restriction Factor for Cutaneous Leishmania* | Vasco Rodrigues et al. | John Njogu | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788307/) | [Presentation_link](https://github.com/jnnjogu/Journal_Club/files/7136945/journal-club-presentation_john-njogu.pptx)
+
 ---
 
 

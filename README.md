@@ -28,6 +28,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 26-08-2021 | *Tracking the introduction and spread of SARS-CoV-2 in coastal Kenya* | George Githinji et al. | Brenda Kamau | [Paper](https://www.nature.com/articles/s41467-021-25137-x) | [Presentation_link](https://docs.google.com/presentation/d/1cQ4qBEJrE9zl2STNkbRBmIUCKJtW6xV5/edit?usp=sharing&ouid=115597905508400499422&rtpof=true&sd=true)
 09-09-2021 | *Transcriptional Analysis of Human Skin Lesions Identifies Tryptophan-2,3-Deoxygenase as a Restriction Factor for Cutaneous Leishmania* | Vasco Rodrigues et al. | John Njogu | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788307/) | [Presentation_link](https://github.com/jnnjogu/Journal_Club/files/7136945/journal-club-presentation_john-njogu.pptx)
 23-09-2021 | *Identification of Viruses and Viroids Infecting Tomato and Pepper Plants in Vietnam by Metatranscriptomics* |Choi et al., 2020 | Oscar Mwaura | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7593927/) | [presentation link](https://docs.google.com/presentation/d/1bmmwPIevOvbsQXfITC6SPp5QnhNg5e9i/edit#slide=id.p1)
+07-10-2021 | *Neoantigens in cancer immunotherapy* |Ton et al., 2015 | Ruth Nanjala | [paper](https://pubmed.ncbi.nlm.nih.gov/25838375/) | [presentation link](https://docs.google.com/presentation/d/1Ju6hQ2d1D5J8eQ-y0Q4-s8dRc_Sixg4YrEooPVSWMGo/edit#slide=id.gcb38ac85c3_0_255)
 
 ---
 

@@ -29,6 +29,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 09-09-2021 | *Transcriptional Analysis of Human Skin Lesions Identifies Tryptophan-2,3-Deoxygenase as a Restriction Factor for Cutaneous Leishmania* | Vasco Rodrigues et al. | John Njogu | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788307/) | [Presentation_link](https://github.com/jnnjogu/Journal_Club/files/7136945/journal-club-presentation_john-njogu.pptx)
 23-09-2021 | *Identification of Viruses and Viroids Infecting Tomato and Pepper Plants in Vietnam by Metatranscriptomics* |Choi et al., 2020 | Oscar Mwaura | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7593927/) | [presentation link](https://docs.google.com/presentation/d/1bmmwPIevOvbsQXfITC6SPp5QnhNg5e9i/edit#slide=id.p1)
 07-10-2021 | *Neoantigens in cancer immunotherapy* |Ton et al., 2015 | Ruth Nanjala | [paper](https://pubmed.ncbi.nlm.nih.gov/25838375/) | [presentation link](https://docs.google.com/presentation/d/1Ju6hQ2d1D5J8eQ-y0Q4-s8dRc_Sixg4YrEooPVSWMGo/edit#slide=id.gcb38ac85c3_0_255)
+21-10-2021 | *Genome-Wide Association Study of Loneliness Demonstrates a Role for Common Variation.* | Gao et al., 2016 | Laurah Ondari | [paper](https://pubmed.ncbi.nlm.nih.gov/27629369/) | [presentation link](https://docs.google.com/presentation/d/1KS8FyAwATLe8xz7Jx09aTDQpeXYGNwS7t_P3ID-5vKE/edit#slide=id.gf9abc430fe_0_295)
 
 ---
 

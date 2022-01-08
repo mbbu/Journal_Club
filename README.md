@@ -29,7 +29,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 09-09-2021 | *Transcriptional Analysis of Human Skin Lesions Identifies Tryptophan-2,3-Deoxygenase as a Restriction Factor for Cutaneous Leishmania* | Vasco Rodrigues et al. | John Njogu | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6788307/) | [Presentation_link](https://github.com/jnnjogu/Journal_Club/files/7136945/journal-club-presentation_john-njogu.pptx)
 23-09-2021 | *Identification of Viruses and Viroids Infecting Tomato and Pepper Plants in Vietnam by Metatranscriptomics* |Choi et al., 2020 | Oscar Mwaura | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7593927/) | [presentation link](https://docs.google.com/presentation/d/1bmmwPIevOvbsQXfITC6SPp5QnhNg5e9i/edit#slide=id.p1)
 07-10-2021 | *Neoantigens in cancer immunotherapy* |Ton et al., 2015 | Ruth Nanjala | [paper](https://pubmed.ncbi.nlm.nih.gov/25838375/) | [presentation link](https://docs.google.com/presentation/d/1Ju6hQ2d1D5J8eQ-y0Q4-s8dRc_Sixg4YrEooPVSWMGo/edit#slide=id.gcb38ac85c3_0_255)
-
+02-11-2021 | *Microbiome profiling of rotavirus infected children suffering from acute gastroenteritis* | Muhammad et al | Okeyo Allan | [Paper](https://gutpathogens.biomedcentral.com/track/pdf/10.1186/s13099-021-00411-x) | [Presentation link](https://docs.google.com/presentation/d/1QxQpnmVYiH5p6bS79NuwOXobKnppDogruqS6hYMw774/edit#slide=id.g10c30c62293_0_41)
 ---
 
 

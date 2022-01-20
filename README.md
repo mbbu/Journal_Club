@@ -31,7 +31,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 07-10-2021 | *Neoantigens in cancer immunotherapy* |Ton et al., 2015 | Ruth Nanjala | [paper](https://pubmed.ncbi.nlm.nih.gov/25838375/) | [presentation link](https://docs.google.com/presentation/d/1Ju6hQ2d1D5J8eQ-y0Q4-s8dRc_Sixg4YrEooPVSWMGo/edit#slide=id.gcb38ac85c3_0_255)
 21-10-2021 | *Genome-Wide Association Study of Loneliness Demonstrates a Role for Common Variation.* | Gao et al., 2016 | Laurah Ondari | [paper](https://pubmed.ncbi.nlm.nih.gov/27629369/) | [presentation link](https://docs.google.com/presentation/d/1KS8FyAwATLe8xz7Jx09aTDQpeXYGNwS7t_P3ID-5vKE/edit#slide=id.gf9abc430fe_0_295)
 18-11-2021 | *Oxytocin receptor genetic variation relates to empathy and stress reactivity in humans.* | Sarina M. Rodrigues et al., 2009 | Nelly Wambui | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2795557/) | [presentation link](https://github.com/Nelly-Wambui/Journal_Club/blob/main/presentations/Nelly's%20Oxytocin%20Presentation.pptm)
-
+17-12-2021 | *Blood meal-induced inhibition of vector-borne disease by transgenic microbiota* | Shane, J. L et.al | Collins Kigen | [paper](https://pubmed.ncbi.nlm.nih.gov/30297781/)| [presentation link](https://docs.google.com/presentation/d/1gH-XE4bFdTDRrXoNZf1kgHBV5YrX94x9bJUjoI3dBpk/edit?usp=sharing)
 
 ---
 

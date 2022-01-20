@@ -32,7 +32,8 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 21-10-2021 | *Genome-Wide Association Study of Loneliness Demonstrates a Role for Common Variation.* | Gao et al., 2016 | Laurah Ondari | [paper](https://pubmed.ncbi.nlm.nih.gov/27629369/) | [presentation link](https://docs.google.com/presentation/d/1KS8FyAwATLe8xz7Jx09aTDQpeXYGNwS7t_P3ID-5vKE/edit#slide=id.gf9abc430fe_0_295)
 04-11-2021 | *Identification of Single Nucleotide Polymorphisms in Porcine MAOA Gene Associated with Aggressive Behavior of Weaned Pigs after Group Mixing* | Chen et. al., 2019 | Eric Kariuki | [paper] (https://www.mdpi.com/2076-2615/9/11/952) | [presentation link] (https://docs.google.com/presentation/d/1OKI97juLlw4A-Dp7PkioUIGxiSnEGP_kW_llI6D__tU/edit?usp=sharing)
 18-11-2021 | *Oxytocin receptor genetic variation relates to empathy and stress reactivity in humans.* | Sarina M. Rodrigues et al., 2009 | Nelly Wambui | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2795557/) | [presentation link](https://github.com/Nelly-Wambui/Journal_Club/blob/main/presentations/Nelly's%20Oxytocin%20Presentation.pptm)
-
+02-12-2021 | *Microbiome profiling of rotavirus infected children suffering from acute gastroenteritis* | Muhammad et al | Okeyo Allan | [Paper](https://gutpathogens.biomedcentral.com/track/pdf/10.1186/s13099-021-00411-x) | [Presentation link](https://docs.google.com/presentation/d/1QxQpnmVYiH5p6bS79NuwOXobKnppDogruqS6hYMw774/edit#slide=id.g10c30c62293_0_41)
+17-12-2021 | *Blood meal-induced inhibition of vector-borne disease by transgenic microbiota* | Shane, J. L et.al | Collins Kigen | [paper](https://pubmed.ncbi.nlm.nih.gov/30297781/)| [presentation link](https://docs.google.com/presentation/d/1gH-XE4bFdTDRrXoNZf1kgHBV5YrX94x9bJUjoI3dBpk/edit?usp=sharing)
 
 ---
 

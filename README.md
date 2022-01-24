@@ -35,7 +35,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 02-12-2021 | *Microbiome profiling of rotavirus infected children suffering from acute gastroenteritis* | Muhammad et al | Okeyo Allan | [Paper](https://gutpathogens.biomedcentral.com/track/pdf/10.1186/s13099-021-00411-x) | [Presentation link](https://docs.google.com/presentation/d/1QxQpnmVYiH5p6bS79NuwOXobKnppDogruqS6hYMw774/edit#slide=id.g10c30c62293_0_41)
 17-12-2021 | *Blood meal-induced inhibition of vector-borne disease by transgenic microbiota* | Shane, J. L et.al | Collins Kigen | [paper](https://pubmed.ncbi.nlm.nih.gov/30297781/)| [presentation link](https://docs.google.com/presentation/d/1gH-XE4bFdTDRrXoNZf1kgHBV5YrX94x9bJUjoI3dBpk/edit?usp=sharing)
 06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al | Joyce Wangari | [paper](https://www.nature.com/articles/gim201529)| [presentation link](https://docs.google.com/presentation/d/104IYYWu3AaH6LTka9aOL0Ayg4m5_N1EK/edit#slide=id.p1)
-20-01-2022 | *A Long-Term Engagement with a Social Robot for Autism Therapy*|Rakhymbayeva N et. al., 2021 | Caroline Kogei | [paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.669972/full)|[presentation link](https://docs.google.com/presentation/d/1RxlyoQmJ4c3YIo-LjAtUhxBdRnLs9OST/edit?usp=sharing&ouid=117239724346945185906&rtpof=true&sd=true)
+20-01-2022 | *A Long-Term Engagement with a Social Robot for Autism Therapy*|Rakhymbayeva N et. al., 2021 | Caroline Kogei | [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.669972/full)|[Presentation link](https://docs.google.com/presentation/d/1RxlyoQmJ4c3YIo-LjAtUhxBdRnLs9OST/edit?usp=sharing&ouid=117239724346945185906&rtpof=true&sd=true)
 ---
 
 

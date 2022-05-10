@@ -36,7 +36,8 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 17-12-2021 | *Blood meal-induced inhibition of vector-borne disease by transgenic microbiota* | Shane, J. L et.al | Collins Kigen | [paper](https://pubmed.ncbi.nlm.nih.gov/30297781/)| [presentation link](https://docs.google.com/presentation/d/1gH-XE4bFdTDRrXoNZf1kgHBV5YrX94x9bJUjoI3dBpk/edit?usp=sharing)
 06-01-2022| *Treacher Collins Syndrome: a clinical and molecular study based on a large series of patients* | Vincent et.al | Joyce Wangari | [paper](https://www.nature.com/articles/gim201529)| [presentation link](https://docs.google.com/presentation/d/104IYYWu3AaH6LTka9aOL0Ayg4m5_N1EK/edit#slide=id.p1)
 20-01-2022 | *A Long-Term Engagement with a Social Robot for Autism Therapy*|Rakhymbayeva N et. al., 2021 | Caroline Kogei | [Paper](https://www.frontiersin.org/articles/10.3389/frobt.2021.669972/full)|[Presentation link](https://docs.google.com/presentation/d/1RxlyoQmJ4c3YIo-LjAtUhxBdRnLs9OST/edit?usp=sharing&ouid=117239724346945185906&rtpof=true&sd=true)
----
+26-03-2022 | *Metagenomic Exploration of Plastic Degrading Microbes for Biotechnological Application* | Purohit et. al, 2020 | Rodney Omukuti | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521044/) | [presentation link](https://docs.google.com/presentation/d/1b_3dYfkTV3Wz_LMmklYsnZqtC_LjbRmP/edit?usp=sharing&ouid=102786403682468986387&rtpof=true&sd=true)
+--- 
 
 
 When you are the presenter, do the following:

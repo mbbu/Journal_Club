@@ -14,7 +14,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 31-03-2022 | *Molecular dynamics of G6PD variants from sub-Saharan Africa* | Jorge Batista da Rocha, Houcemeddine Othman & Scott Hazelhurst | Maxwell Booker | [paper](https://www.sciencedirect.com/science/article/pii/S240558082200036X?via%3Dihub) | [Presentation link](https://docs.google.com/presentation/d/1y8bc5ztYpSMy7JVX0ctXiD7oDNrRkED-IGB3EN4fV0k/edit?usp=sharing)
 14-04-2022 | *Genome-wide analysis of SARS-CoV-2 virus strains circulating worldwide implicates heterogeneity* | Islam et.al| Sharon Watiri| [Paper]( https://www.nature.com/articles/s41598-020-70812-6#Sec1)|[Presentation link](https://docs.google.com/presentation/d/1GAoQbT-BWQ8ilnlp5rHmUJvydJP07R-XGV5Yk8agHIE/edit#slide=id.p)
 28-04-2022 | *Metagenomic Exploration of Plastic Degrading Microbes for Biotechnological Application – A Review* | Purohit et. al | Rodney Omukuti | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521044/) | [Presentation link](https://docs.google.com/presentation/d/1b_3dYfkTV3Wz_LMmklYsnZqtC_LjbRmP/edit?usp=sharing&ouid=102786403682468986387&rtpof=true&sd=true)
-
+12-05-2022 | *Identifying facial phenotypes of genetic disorders using deep learning* | Yaron Gurovich et.al | Kinyugo Maina | [paper](https://www.nature.com/articles/s41591-018-0279-0?13570) | [presentation link](https://docs.google.com/presentation/d/1dwtYeyBZj12haIdO23AgpXBvIvS8FXYYtciezkxXhVQ/edit?usp=sharing)
 ---
 
 When you are the presenter, do the following:

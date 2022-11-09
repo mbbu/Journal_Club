@@ -16,7 +16,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 28-04-2022 | *Metagenomic Exploration of Plastic Degrading Microbes for Biotechnological Application – A Review* | Purohit et. al | Rodney Omukuti | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521044/) | [Presentation link](https://docs.google.com/presentation/d/1b_3dYfkTV3Wz_LMmklYsnZqtC_LjbRmP/edit?usp=sharing&ouid=102786403682468986387&rtpof=true&sd=true)
 12-05-2022 | *Identifying facial phenotypes of genetic disorders using deep learning* | Yaron Gurovich et.al | Kinyugo Maina | [paper](https://www.nature.com/articles/s41591-018-0279-0?13570) | [presentation link](https://docs.google.com/presentation/d/1dwtYeyBZj12haIdO23AgpXBvIvS8FXYYtciezkxXhVQ/edit?usp=sharing)
 20-05-2022 | *NFTS Applications and its challenges* | Wajiha Rehman, Hijab e Zainab, Jaweria Imran |Caroline samoei | [paper](https://www.researchgate.net/publication/357900561_NFTs_Applications_and_Challenges) | [presentation link](https://docs.google.com/presentation/d/1KdM-UZUTisr6_ofcrCyfbfpUYPzGwZ4jTyqPbae3Qq0/edit?usp=sharing)
----
+3-11-2022 | *Stochastic Gene Expression Influences the Selection of Antibiotic Resistance Mutations* | Lei Sun et.al | Vanessa Natasha | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6984361/) | [presentation link](https://docs.google.com/presentation/d/1Jdbd7F92cTkcbQX3-pIG7pLQD8D5itz_4p-6daE-Dto/edit?usp=sharing)
 
 When you are the presenter, do the following:
  1. Fork this repository.

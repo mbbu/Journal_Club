@@ -17,6 +17,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 12-05-2022 | *Identifying facial phenotypes of genetic disorders using deep learning* | Yaron Gurovich et.al | Kinyugo Maina | [paper](https://www.nature.com/articles/s41591-018-0279-0?13570) | [presentation link](https://docs.google.com/presentation/d/1dwtYeyBZj12haIdO23AgpXBvIvS8FXYYtciezkxXhVQ/edit?usp=sharing)
 20-05-2022 | *NFTS Applications and its challenges* | Wajiha Rehman, Hijab e Zainab, Jaweria Imran |Caroline samoei | [paper](https://www.researchgate.net/publication/357900561_NFTs_Applications_and_Challenges) | [presentation link](https://docs.google.com/presentation/d/1KdM-UZUTisr6_ofcrCyfbfpUYPzGwZ4jTyqPbae3Qq0/edit?usp=sharing)
 06-10-2022 | *Latest Developed Strategies to Minimize the Off-Target Effects in CRISPR-Cas-Mediated Genome Editing* | Muhammad Naeem et.al | Samuel Mwasya | [Paper](https://www.mdpi.com/2073-4409/9/7/1608/htm) | [Presentation link](https://docs.google.com/presentation/d/1YzXGsVSPPGcs5x6tmXcRfmxVscSw05JIumo-LzJ2oDs/edit?usp=sharing)
+27-10-2022 | *phylogenetic supertree reveals detailed evolution of SARS-COV-2* | Tingting Li, Dongxia Liu, Yadi Yang, |Mark Njama | [paper](https://www.nature.com/articles/s41598-020-79484-8#MOESM1) | [presentation link](https://docs.google.com/presentation/d/1SqnXX3Pqnc0KdoU0gdbBVB0lygb0YkGn/edit?usp=sharing&ouid=104399667964329150001&rtpof=true&sd=true)
 ---
 
 When you are the presenter, do the following:

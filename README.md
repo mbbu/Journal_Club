@@ -19,7 +19,9 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Paper | Presentation_link
 15-09-2022 | *Advancing clinical genomics and precision medicine with GVViZ: FAIR bioinformatics platform for variable gene-disease annotation, visualization, and expression analysis* | Zeeshan Ahmed et. al |Ann Laigong'| [paper](https://pubmed.ncbi.nlm.nih.gov/34174938/) | [presentation link](https://docs.google.com/presentation/d/1PunmRhIjbfMc0ol8-E1RfexafAEUXTzV/edit?usp=sharing&ouid=106262597850986969326&rtpof=true&sd=true)
 06-10-2022 | *Latest Developed Strategies to Minimize the Off-Target Effects in CRISPR-Cas-Mediated Genome Editing* | Muhammad Naeem et.al | Samuel Mwasya | [Paper](https://www.mdpi.com/2073-4409/9/7/1608/htm) | [Presentation link](https://docs.google.com/presentation/d/1YzXGsVSPPGcs5x6tmXcRfmxVscSw05JIumo-LzJ2oDs/edit?usp=sharing)
 27-10-2022 | *phylogenetic supertree reveals detailed evolution of SARS-COV-2* | Tingting Li, Dongxia Liu, Yadi Yang, |Mark Njama | [paper](https://www.nature.com/articles/s41598-020-79484-8#MOESM1) | [presentation link](https://docs.google.com/presentation/d/1SqnXX3Pqnc0KdoU0gdbBVB0lygb0YkGn/edit?usp=sharing&ouid=104399667964329150001&rtpof=true&sd=true)
+3-11-2022 | *Stochastic Gene Expression Influences the Selection of Antibiotic Resistance Mutations* | Lei Sun et.al | Vanessa Natasha | [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6984361/) | [presentation link](https://docs.google.com/presentation/d/1Jdbd7F92cTkcbQX3-pIG7pLQD8D5itz_4p-6daE-Dto/edit?usp=sharing)
 ---
+
 
 When you are the presenter, do the following:
  1. Fork this repository.
